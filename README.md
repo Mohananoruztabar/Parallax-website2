@@ -2,7 +2,7 @@
 
 parallax with js
 
--[Demo Project](https://mohananoruztabar.github.io/Parallax-website1/)
+-[Demo Project](https://mohananoruztabar.github.io/Parallax-website2/)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 

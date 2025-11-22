@@ -1,2 +1,13 @@
 # Parallax-website2
-parallax
+
+parallax with js
+
+-[Demo Project](https://mohananoruztabar.github.io/Parallax-website1/)
+
+-🙋🏽‍♀️ Developed by Mohana Noruztabar
+
+-📅 Created - 2025-11-22
+
+-⚙ Technologies Used - Html , css , javascript 
+
+-👩🏽‍💻 Role - Frontend
